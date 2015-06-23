@@ -4,4 +4,5 @@
 	<groupId>fish</groupId>
 	<artifactId>fish-operator</artifactId>
 	<version>7</version>
+	<dependencies></dependencies>
 </project>
